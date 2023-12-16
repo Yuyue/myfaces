@@ -565,7 +565,7 @@
         <pluginRepository>
             <id>apache.snapshots.plugin</id>
             <name>Apache Snapshot Repository</name>
-            <url>http://repository.apache.org/snapshots</url>
+            <url>https://repository.apache.org/snapshots</url>
             <releases>
                 <enabled>false</enabled>
             </releases>
@@ -579,7 +579,7 @@
         <!-- tomcat el-impl for test cases (see related tomcat-dependencies) -->
         <repository>
             <id>tomcat</id>
-            <url>http://tomcat.apache.org/dev/dist/m2-repository</url>
+            <url>https://tomcat.apache.org/dev/dist/m2-repository</url>
         </repository>
 
     </repositories>
